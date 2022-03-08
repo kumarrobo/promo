@@ -1,0 +1,6 @@
+{
+"session_file":"./session.json",
+"webhook_url": "http://192.168.0.3/print/callback/webhook.php",
+"webhook_group": "http://192.168.0.3/print/callback/hookgroup.php",
+"callback_url": "http://192.168.0.3/print/callback/callback.php"
+} 
